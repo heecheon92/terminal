@@ -1,0 +1,19 @@
+set number
+set ruler
+set nu
+set laststatus=2
+set mouse=a
+set t_Co=256
+set autoindent
+set tabstop=4
+set incsearch
+set hlsearch
+set showmatch
+set showcmd
+set smarttab
+set smartindent
+set softtabstop=4
+set shiftwidth=4
+if has("syntax")
+  syntax on
+endif
