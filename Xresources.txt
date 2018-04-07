@@ -1,0 +1,21 @@
+!Font Style
+URxvt.font: xft:monospace:size=16
+
+!Scroll Bar
+URxvt.scrollBar: false
+
+!Background Transparecy
+URxvt*transparent: true
+
+!Cursor Blink
+URxvt*cursorBlink: true
+
+!Default Font Color
+URxvt.foreground:   #11FF00
+
+!Default Background Color (#00000 for colorless)
+URxvt.background:   #00000
+
+!Cursor Color
+URxvt.cursorColor:  #11FF00
+URxvt*color2:       #11FF00
